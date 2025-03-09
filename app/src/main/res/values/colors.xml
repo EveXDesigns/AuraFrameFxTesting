@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Purple Colors -->
+    <color name="light_background_color_purple">#FFBB86FC</color>
+    <color name="color_primary_purple">#FF6200EE</color>
+    <color name="color_dark_purple">#FF3700B3</color>
+
+    <!-- Teal Colors -->
+    <color name="light_background_color_teal">#FF03DAC5</color>
+    <color name="color_dark_teal">#FF018786</color>
+
+    <!-- Basic Colors -->
+    <color name="text_color_black">#FF000000</color>
+    <color name="background_color_white">#FFFFFFFF</color>
+    <color name="light_text_color">#FFFFFFFF</color>
+    <color name="dark_background_color">#121212</color>
+    <color name="dark_background_color_dark">#000000</color>
+    <color name="dark_accent_color">#BB86FC</color>
+    <color name="dark_button_background_color">#BB86FC</color>
+    <color name="button_background_neon_teal">#00FFCC</color>
+    <color name="text_neon_teal">#00F5CC</color>
+    <color name="dark_neon_teal">#00FFDD</color>
+    <color name="background_color_aqua">#00FFFF</color>
+    <!-- Theme 1 Colors -->
+    <color name="theme1_background_color">#2196F3</color> <!-- A nice blue -->
+    <color name="theme1_app_bar_color">#1976D2</color> <!-- A darker shade of blue -->
+    <color name="theme1_button_background_color">#FFC107</color> <!-- Amber -->
+</resources>
